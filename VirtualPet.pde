@@ -1,5 +1,5 @@
-import processing.serial.*;
 /*
+import processing.serial.*;
 import cc.arduino.*;
 Arduino arduino;
   /* Uncomment for pixel display functionality
