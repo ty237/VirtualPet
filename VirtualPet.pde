@@ -2,10 +2,8 @@
 import processing.serial.*;
 import cc.arduino.*;
 Arduino arduino;
-  /* Uncomment for pixel display functionality
   text(mouseX, 20, 480);
   text(mouseY,40, 480);
-  */
 */
 
 public void setup() {
